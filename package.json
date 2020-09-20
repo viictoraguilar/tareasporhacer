@@ -1,0 +1,15 @@
+{
+  "name": "tareas",
+  "version": "1.0.0",
+  "description": "Aplicación en consola para gestionar tareas",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Victor Aguilar",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "yargs": "^16.0.3"
+  }
+}
